@@ -11,7 +11,7 @@ A user will be classified as one of the following categories:
 <ul>
 <li>Self help, in this case, it will be known that user is not going through serious mental stress therefore, the user will be suggested few blogs and videos to cheer up.</li>
 <li>Needs counselling, in this case, it is felt that the user is holding in a lot of thoughts which are leading to mental stress and anxiety, the user will therefore be brought in contact with our counselors, who can contact the user through texts or if user agrees to, through calls.</li>
-<li>Therapy, in this case, it is found that the user is going through serious mental problems, and it is suggested that he/she should seek professional help. The user will be brought in contact with professionals through the counselors.</li>
+<li>Therapy, in this case, it is found that the user is going through serious mental problems, and it is suggested that he/she should seek professional help. The user will be brought in contact with professionals through the counselors</li>
 </ul> 
 </td>
 </tr>
